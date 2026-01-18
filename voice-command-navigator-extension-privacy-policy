@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Voice Command Navigator Privacy Policy</title>
+    <style>
+      body {
+        font-family: "Avenir Next", "Trebuchet MS", sans-serif;
+        line-height: 1.6;
+        margin: 32px;
+        color: #1f1b16;
+        background: #fdf6ec;
+      }
+      h1, h2 {
+        margin-bottom: 8px;
+      }
+      p {
+        margin-top: 4px;
+      }
+      .muted {
+        color: #5f5347;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Voice Command Navigator Privacy Policy</h1>
+    <p class="muted">Last updated: 2026-01-18</p>
+
+    <h2>Overview</h2>
+    <p>
+      Voice Command Navigator is a browser extension that lets users navigate tabs,
+      scroll pages, click links, and optionally dictate text using voice commands.
+    </p>
+
+    <h2>Data Collection</h2>
+    <p>
+      The extension does not collect, transmit, or sell personal data. It does not
+      collect browsing history, page contents, or identifiers.
+    </p>
+
+    <h2>Data Storage</h2>
+    <p>
+      The extension stores only local preferences (such as always-on voice and
+      dictation mode state) in Chrome storage on your device.
+    </p>
+
+    <h2>Third-Party Sharing</h2>
+    <p>
+      No data is shared with third parties.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      If you have any questions, contact the developer at: <strong>YOUR_EMAIL_HERE</strong>.
+    </p>
+  </body>
+</html>
